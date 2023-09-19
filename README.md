@@ -1,2 +1,2 @@
 # meisterai0205
-MDP
+AI 2반 5조 MDP
