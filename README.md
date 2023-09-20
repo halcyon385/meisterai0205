@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 # B. 노란 신호등
 
-![Example 1](https://github.com/kppa00/meisterai0205/assets/136699281/cabc2342-e17d-471f-a7db-782680fc04b5)
+<img src="https://github.com/kppa00/meisterai0205/assets/136699281/a6baa6e4-1ef3-45ff-a74a-5ad94da06f2e"  width="700" height="370">
 
 ## 개요
    딜레마 존(Dilemma Zone)이란 녹색신호에서 황색신호로 바뀌었을 때, 멈추려고 해도 정지선 직전에 멈추는 것이
