@@ -1,6 +1,6 @@
 # 노란 신호등
 
-<img src="https://github.com/kppa00/meisterai0205/assets/145431273/0d3b1845-3745-48fb-ac3b-ba041411cbba)"  width=70%>![개요그림]
+<img src="https://github.com/kppa00/meisterai0205/assets/145431273/0d3b1845-3745-48fb-ac3b-ba041411cbba)"  width=70%>
 
 
 ## 개요
